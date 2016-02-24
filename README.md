@@ -1,4 +1,4 @@
-The Young Hackers Website
+## The Young Hackers
 
 Hip Hackathon in New York City. 
 
