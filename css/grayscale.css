@@ -25,7 +25,7 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Open Sans';
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -34,7 +34,7 @@ p {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
-    font-family: "Helvetica Neue";
+    font-family: "Open Sans";
 }
 
 @media(min-width:768px) {
@@ -66,7 +66,7 @@ a:focus {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans";
     background-color: #000;
 }
 
